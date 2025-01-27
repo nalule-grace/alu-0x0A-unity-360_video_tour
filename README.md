@@ -1,8 +1,12 @@
 
-Here’s a detailed and structured README.md for your project:
+
 
 Unity 360 Video Tour
+
+
 Project Overview
+
+
 This project marks the beginning of your journey into creating Virtual Reality (VR) experiences. Through this project, you’ll explore the fundamentals of VR, including positional tracking, degrees of freedom (DOF), and 360-degree video interaction. You will use Unity as the primary development platform and test your projects using available VR headsets like Oculus Go, Google Cardboard, or others.
 
 Getting Started
